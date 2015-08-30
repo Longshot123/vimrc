@@ -2,7 +2,7 @@
 
 "This must be first, because it changes othe option as a side effect
 set nocompatible 
-let mapleader=","                    "Change \ leader to space
+let mapleader="\<space>"                    "Change \ leader to space
 
 
 "=====[ Vundle Settings ]======================================================
